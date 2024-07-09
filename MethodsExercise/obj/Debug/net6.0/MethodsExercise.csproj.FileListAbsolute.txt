@@ -1,0 +1,15 @@
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.sourcelink.json
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/kellyallen/Desktop/c#repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
